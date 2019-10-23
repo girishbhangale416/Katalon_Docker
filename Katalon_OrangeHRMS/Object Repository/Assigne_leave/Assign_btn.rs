@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Assign_btn</name>
+   <tag></tag>
+   <elementGuidId>5d1b3101-b795-4c07-895d-eaab59d88988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=&quot;assignBtn&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#assignBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

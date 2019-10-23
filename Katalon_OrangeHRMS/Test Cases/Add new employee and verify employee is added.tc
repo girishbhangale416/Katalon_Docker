@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add new employee and verify employee is added</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60c90e26-72e1-40b3-a7e6-b2cd56e21d28</testCaseGuid>
+</TestCaseEntity>

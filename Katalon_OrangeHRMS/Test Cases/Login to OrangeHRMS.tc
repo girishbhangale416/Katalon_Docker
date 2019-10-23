@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login to OrangeHRMS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c683e5e9-43ec-4bd0-a446-46516e249583</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17aad68a-3b15-4e28-948a-f28c66eb5aeb</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47dca653-d137-47b6-ae67-4d312551f872</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Assigne the leaves to newly added employe and verify that employee is able to see the assigne leaves</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f3a38a6-977b-4326-a85f-c1640a9152dd</testCaseGuid>
+</TestCaseEntity>

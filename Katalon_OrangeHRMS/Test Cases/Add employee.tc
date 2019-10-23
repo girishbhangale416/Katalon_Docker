@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2512e819-730c-49f0-ad98-cb0fe219e581</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>292e640c-a919-48fd-bbf1-b01ac255c97c</id>
+      <masked>false</masked>
+      <name>First_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57fde666-43fc-4fc4-a582-a347089999bf</id>
+      <masked>false</masked>
+      <name>Last_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78e4582b-1f1f-45f1-8555-4b76ef284f28</id>
+      <masked>false</masked>
+      <name>emp_ID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5fd65992-a44e-41a8-be80-46d8111aad5e</id>
+      <masked>false</masked>
+      <name>User_name</name>
+   </variable>
+</TestCaseEntity>

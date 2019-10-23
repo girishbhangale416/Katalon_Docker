@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add leave type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4561027-79f2-4d7d-b6be-9073b4fed20b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5ec7f5f-bec2-4689-b89b-125c6b94cf9b</id>
+      <masked>false</masked>
+      <name>type_name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Leave Entitlement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fc2acf7-a5da-41f4-8ba0-982487ed6527</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5db8810-4f7b-43e1-b115-7479020d04b0</id>
+      <masked>false</masked>
+      <name>leave_types</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61c7de06-ded8-467a-b75a-178d7ae2ea5d</id>
+      <masked>false</masked>
+      <name>emp_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01acd1c6-9808-4a5f-8e0a-65b8685eaa6d</id>
+      <masked>false</masked>
+      <name>num_leave</name>
+   </variable>
+</TestCaseEntity>
